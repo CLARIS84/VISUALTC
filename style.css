@@ -1,0 +1,28 @@
+h1 {
+    color: #000;
+}
+
+* {
+    border:#ffffff;
+}
+
+.header{
+    background-color: fff;
+    display: flex;
+    justify-content:center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.socialm{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+body{
+    background-color: #ffffff ;
+}
